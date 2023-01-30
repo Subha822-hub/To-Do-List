@@ -1,0 +1,39 @@
+body
+{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+.container
+{
+    margin-left: 20px;
+    background-color: white;
+    border-radius: 20px; 
+}
+h1
+{
+    margin-left: 20px;
+    color: #090979;
+    text-decoration: underline;
+    text-align: center;
+}
+li
+{
+    background-color: rgb(206, 205, 205);
+    padding: 10px;
+    list-style-type: disc;
+}
+input[type=text]
+{
+    margin-left: 10px;
+    padding-left: 40px;
+    padding-bottom: 15px;
+}
+input[type=button]
+{
+    padding-bottom: 15px;
+    text-align: center;
+    background-color:#14cdee;
+    color:#090979;
+    border: 2px solid #090979;
+    border-radius: 5px;
+}
